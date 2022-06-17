@@ -1,6 +1,10 @@
 # flutter_codigo5_weatherapp
 
-A new Flutter project.
+WeatherApp
+
+# Images
+
+<img src="Screenshot_20220616_232501.png" width="300"> <img src="Screenshot_20220616_232511" width="300"> <img src="Screenshot_20220616_232521" width="300">
 
 ## Getting Started
 
